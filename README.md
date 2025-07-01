@@ -119,6 +119,10 @@ Case insensitive.
 - itunesadvisory
 - itunesalbumid
 - itunesartistid
+- itunescatalogid
+- itunescomposerid
+- itunescountryid
+- itunesgenreid
 - lyrics
 - narrator
 - picture:<position index starting from 1>
@@ -128,3 +132,4 @@ Case insensitive.
 - tracknumber
 - tracktotal
 - year
+- xid
